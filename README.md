@@ -1,1 +1,1 @@
-# fm-profile-card-component
+# profile-card-component
